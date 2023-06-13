@@ -12,12 +12,13 @@
 
 
 - 📫 How to reach me:
-- https://github.com/POONAMJADHAV65
-- poonamjadhav6565@gmail.com
+poonamjadhav6565@gmail.com
 
-<img width="48%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=POONAMJADHAV65&show_icons=true&include_all_commits=true&theme=ayu-mirage" alt="Poonam's github stats" />
+
+<img width="40%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=POONAMJADHAV65&show_icons=true&include_all_commits=true&theme=radical" alt="Poonam github stats" />
+ 
   
-<img width="41%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=POONAMJADHAV65&layout=compact&theme=ayu-mirage" />
+<img width="40%" height="20%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=POONAMJADHAV65&layout=donut-vertical&theme=radical" />
   <br/>
 
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=POONAMJADHAV65&theme=tokyonight" />
