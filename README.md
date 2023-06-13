@@ -21,8 +21,9 @@ poonamjadhav6565@gmail.com
 <img width="40%" height="20%" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=POONAMJADHAV65&layout=donut-vertical&theme=radical" />
   <br/>
 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=POONAMJADHAV65&theme=tokyonight" />
+ <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=POONAMJADHAV65&theme=transparent" />
   <br/>
+ 
 
 
 
