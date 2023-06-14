@@ -46,12 +46,12 @@ poonamjadhav6565@gmail.com
 </p>
 
 <h3>Connect With Me</h3>
-<a href="https://github.com/POONAMJADHAV65">
-<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-<a href="poonamjadhav6565@gmail.com">
- <img alt="Gmail" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/POONAMJADHAV65) 
+
+
+ [<img alt="Gmail" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](poonamjadhav6565@gmail.com)
+
 </br>
 </br>
 
