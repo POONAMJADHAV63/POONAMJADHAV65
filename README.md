@@ -50,7 +50,9 @@ poonamjadhav6565@gmail.com
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/POONAMJADHAV65) 
 
 
- [<img alt="Gmail" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](poonamjadhav6565@gmail.com)
+ [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/poonam-jadhav-8b23a6246)
+
+
 
 </br>
 </br>
