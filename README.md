@@ -52,7 +52,7 @@ poonamjadhav6565@gmail.com
 
  [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/poonam-jadhav-8b23a6246)
 
-[<img alt="Gamil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new)
+
 
 </br>
 </br>
@@ -73,7 +73,8 @@ poonamjadhav6565@gmail.com
   
  </p>
 
- 
+ <!--[<img alt="Gamil" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new)
+
 
 
 
