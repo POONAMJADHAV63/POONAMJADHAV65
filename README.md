@@ -11,8 +11,8 @@
 - 🔢 Pursuing an Honors Degree in Data Science in Atharva College of Engineering.
 
 
-- 📫 How to reach me:
-poonamjadhav6565@gmail.com
+
+
 
 <h3>Languages</h3>
 <p align="center">
