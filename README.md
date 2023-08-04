@@ -1,18 +1,6 @@
 ### Hi there 👋 I am Poonam Jadhav
-
-
-
-
-
-
-- 🔭 I’m currently doing Internship on Full Stack Development Projects.
 - 🌱 I’m currently learning Full stack web devlopment.
-
 - 🔢 Pursuing an Honors Degree in Data Science in Atharva College of Engineering.
-
-
-
-
 
 <h3>Languages</h3>
 <p align="center">
